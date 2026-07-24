@@ -1,7 +1,5 @@
 # OctoAcme Project Management Docs
 
-Last updated: 2026-07-24.
-
 OctoAcme runs projects through a repeatable lifecycle of initiation, planning, execution, release, and retrospective improvement. Work begins with a one-pager that captures the problem statement, outcomes, success metrics, stakeholders, and initial risks, then moves through a go/no-go gate before planning. Planning turns the initiative into a prioritized, estimable backlog with clear acceptance criteria, dependencies, Definition of Done, and milestone-based release goals.
 
 Execution follows a structured workflow with a shared project board and clear pull request expectations. Teams move work through Backlog, Ready, In Progress, In Review, QA, and Done while maintaining regular delivery rhythms such as standups, weekly syncs, and sprint or milestone demos. Risks are continuously tracked in a risk register and escalated through defined paths from team triage to PM/Product Lead and sponsor escalation when business impact is high.
