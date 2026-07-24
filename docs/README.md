@@ -18,3 +18,4 @@ Quality assurance is integrated into delivery rather than deferred to the end. O
 - [OctoAcme Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [OctoAcme Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [OctoAcme Roles and Personas](./octoacme-roles-and-personas.md)
+- [OctoAcme Roles Responsibility Matrix (RACI)](./octoacme-roles-responsibility-matrix.md)
